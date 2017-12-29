@@ -54,6 +54,8 @@ public class DemoServiceApplication {
 
 			}
 		});
+		
+		springApplication.run(args);
 
 	}
 
