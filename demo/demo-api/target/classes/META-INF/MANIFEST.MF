@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: equipment-api
+Implementation-Version: 1.0.1-SNAPSHOT
+Built-By: coolma
+Implementation-Vendor-Id: com.cehome.cloud
+Build-Jdk: 1.8.0_144
+Implementation-URL: http://projects.spring.io/spring-boot/cehome-cloud
+ -parent/equipment-parent/equipment-api/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
