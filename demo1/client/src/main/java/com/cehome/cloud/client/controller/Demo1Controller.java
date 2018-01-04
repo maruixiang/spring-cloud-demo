@@ -15,11 +15,11 @@ public class Demo1Controller {
 
 	@Autowired
 	private Demo1Service demo1Service;
-
+ 
 	@GetMapping("/get")
 	public String get() {
 		logger.info("begin to get ......");
 		return demo1Service.get();
-
+ 
 	}
 }
